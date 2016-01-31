@@ -239,9 +239,9 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {152046992},--Sudo users
+    sudo_users = {156218623},--Sudo users
     disabled_channels = {},
-    realm = {108061169},--Realms Id
+    realm = {109423631},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[ghost_bot 2.3
     
